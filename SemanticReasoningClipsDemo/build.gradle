@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.0.2"
+
+    defaultConfig {
+        applicationId "eu.deustotech.clips.demo.semanticreasoning"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:21.0.0'
+    compile 'org.apache.directory.studio:org.apache.commons.io:2.4'
+    compile 'org.openrdf.sesame:sesame-model:2.8.0-beta2'
+    compile 'org.openrdf.sesame:sesame-rio-api:2.8.0-beta2'
+    compile 'org.openrdf.sesame:sesame-rio-datatypes:2.8.0-beta2'
+    compile 'org.openrdf.sesame:sesame-rio-languages:2.8.0-beta2'
+    compile 'org.openrdf.sesame:sesame-rio-rdfxml:2.8.0-beta2'
+    compile 'org.openrdf.sesame:sesame-rio-turtle:2.8.0-beta2'
+    compile 'org.openrdf.sesame:sesame-util:2.8.0-beta2'
+    compile 'org.slf4j:slf4j-android:1.7.7'
+    compile project(':ClipsAndroid')
+}

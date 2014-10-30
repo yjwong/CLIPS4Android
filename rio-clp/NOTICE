@@ -1,0 +1,11 @@
+The parser and serializer of this project are based on Aduna's NTriple's one
+(https://bitbucket.org/openrdf/sesame/src/master/core/rio/ntriples).
+
+Therefore, some files include software developed by Aduna.
+  URL: http://www.aduna-software.com/
+  License: https://bitbucket.org/openrdf/sesame/src/master/core/LICENSE.txt
+  Notice that this code may include* third parties contributions too: https://bitbucket.org/openrdf/sesame/src/master/core/NOTICE.txt
+
+
+
+* I was unable to identify this specific module's contributors.

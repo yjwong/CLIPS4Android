@@ -1,0 +1,1 @@
+include ':ClipsAndroid', ':AnimalDemo', ':SemanticReasoningDemo', ':SemanticReasoningClipsDemo', ':SimpleDemo', ':rio-clp'
