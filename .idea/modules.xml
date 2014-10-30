@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/CLIPS4Android.iml" filepath="$PROJECT_DIR$/CLIPS4Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClipsAndroid/ClipsAndroid.iml" filepath="$PROJECT_DIR$/ClipsAndroid/ClipsAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/SemanticReasoningClipsDemo/SemanticReasoningClipsDemo.iml" filepath="$PROJECT_DIR$/SemanticReasoningClipsDemo/SemanticReasoningClipsDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SemanticReasoningDemo/SemanticReasoningDemo.iml" filepath="$PROJECT_DIR$/SemanticReasoningDemo/SemanticReasoningDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleDemo/SimpleDemo.iml" filepath="$PROJECT_DIR$/SimpleDemo/SimpleDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rio-clp/rio-clp.iml" filepath="$PROJECT_DIR$/rio-clp/rio-clp.iml" />
     </modules>

@@ -7,598 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d873a3f2-8037-432c-8374-a16a8b062499" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/arm64-v8a/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/armeabi/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/armeabi-v7a/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/mips/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/mips64/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/x86/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/x86_64/libclips.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/arm64-v8a/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/armeabi/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/armeabi-v7a/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/mips/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/mips64/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/x86/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jniLibs/x86_64/libclipsdroid.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/org/openrdf/rio/AbstractParserHandlingTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/AnimalDemo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/src/androidTest/java/eu/deustotech/animalclipsdemo/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/androidTest/java/eu/deustotech/clipsandroid/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/androidTest/java/eu/deustotech/clips/demo/semanticreasoning/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/androidTest/java/eu/deustotech/simpleclipstest/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLIPS4Android.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/CLIPSError.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/CLIPSTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/CLPFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/es/deusto/deustotech/rio/clips/CLPHandlingTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/CLPParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/CLPParserFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/es/deusto/deustotech/rio/clips/CLPParserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/es/deusto/deustotech/rio/clips/CLPParserTestCase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/CLPUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/CLPWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/CLPWriterFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/es/deusto/deustotech/rio/clips/CLPWriterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/ClipsAndroid.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/Environment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/FactAddressValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/FloatValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/InstanceAddressValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/InstanceNameValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/InstanceValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/IntegerValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/LexemeValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/java/eu/deustotech/clips/demo/semanticreasoning/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/MultifieldValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/java/es/deusto/deustotech/rio/clips/NamespacesFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/NumberValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/org/openrdf/rio/ParserConfigTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/PrimitiveValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/java/org/openrdf/rio/RDFWriterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/Router.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/SemanticReasoningClipsDemo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/SimpleDemo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/StringValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/SymbolValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/VoidValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/resources/META-INF/services/org.openrdf.rio.RDFParserFactory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/main/resources/META-INF/services/org.openrdf.rio.RDFWriterFactory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/files/owl.clp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/files/rdfs.clp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/rio-clp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_model_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_rio_api_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_rio_datatypes_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_rio_languages_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_rio_rdfxml_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_rio_turtle_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sesame_util_2_8_0_beta2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_android_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values-v21/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values-v21/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values-v21/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rio-clp/src/test/resources/testcases/clips/test.clp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/CLIPSError.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/Environment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/FactAddressValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/FloatValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/InstanceAddressValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/InstanceNameValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/InstanceValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/IntegerValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/LexemeValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/MultifieldValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/NumberValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/PrimitiveValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/Router.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/StringValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/SymbolValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/src/eu/deustotech/clips/VoidValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/lint.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/gen/eu/deustotech/clips/demo/semanticreasoning/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/gen/eu/deustotech/clips/demo/semanticreasoning/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/rio-clp-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-model-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-rio-api-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-rio-datatypes-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-rio-languages-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-rio-rdfxml-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-rio-turtle-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/sesame-util-2.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/libs/slf4j-android-1.6.1-RC1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/src/eu/deustotech/clips/demo/semanticreasoning/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/lint.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/src/eu/deustotech/simpleclipstest/CLIPSTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/src/eu/deustotech/simpleclipstest/MainActivity.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/Android.mk" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/Android.mk" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/Application.mk" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/Application.mk" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/agenda.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/agenda.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/agenda.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/agenda.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/analysis.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/analysis.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/analysis.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/analysis.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/argacces.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/argacces.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/argacces.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/argacces.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/bload.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/bload.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/bload.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/bload.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/bmathfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/bmathfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/bmathfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/bmathfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/bsave.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/bsave.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/bsave.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/bsave.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classcom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classcom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classcom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classcom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classexm.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classexm.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classexm.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classexm.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classinf.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classinf.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classinf.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classinf.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classini.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classini.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classini.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classini.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/classpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/classpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/clips.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/clips.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/clsltpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/clsltpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/clsltpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/clsltpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cmptblty.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cmptblty.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/commline.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/commline.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/commline.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/commline.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/conscomp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/conscomp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/conscomp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/conscomp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/constant.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/constant.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/constrct.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/constrct.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/constrct.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/constrct.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/constrnt.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/constrnt.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/constrnt.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/constrnt.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/crstrtgy.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/crstrtgy.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/crstrtgy.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/crstrtgy.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrcbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrcbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrcbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrcbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrccmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrccmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrccom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrccom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrccom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrccom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrcpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrcpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrcpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrcpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnchk.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnchk.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnchk.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnchk.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrncmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrncmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrncmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrncmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnops.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnops.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnops.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnops.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnutl.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnutl.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/cstrnutl.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/cstrnutl.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/default.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/default.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/default.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/default.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/defins.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/defins.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/defins.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/defins.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/developr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/developr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/developr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/developr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctbsc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctbsc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctbsc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctbsc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctdef.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctdef.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctdef.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctdef.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffctpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffctpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxexe.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxexe.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxexe.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxexe.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dffnxpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dffnxpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dfinsbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dfinsbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dfinsbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dfinsbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dfinscmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dfinscmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/dfinscmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/dfinscmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/drive.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/drive.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/drive.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/drive.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/ed.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/ed.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/edbasic.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/edbasic.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/edmain.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/edmain.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/edmisc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/edmisc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/edstruct.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/edstruct.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/edterm.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/edterm.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/emathfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/emathfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/emathfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/emathfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/engine.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/engine.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/engine.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/engine.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/envrnmnt.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/envrnmnt.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/envrnmnt.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/envrnmnt.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/evaluatn.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/evaluatn.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/evaluatn.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/evaluatn.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exceptions.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exceptions.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exceptions.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exceptions.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/expressn.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/expressn.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/expressn.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/expressn.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exprnbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exprnbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exprnbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exprnbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exprnops.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exprnops.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exprnops.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exprnops.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exprnpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exprnpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/exprnpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/exprnpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/extnfunc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/extnfunc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/extnfunc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/extnfunc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factbld.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factbld.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factbld.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factbld.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factcom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factcom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factcom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factcom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factgen.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factgen.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factgen.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factgen.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/facthsh.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/facthsh.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/facthsh.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/facthsh.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factlhs.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factlhs.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factlhs.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factlhs.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factmch.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factmch.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factmch.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factmch.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factmngr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factmngr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factmngr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factmngr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factprt.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factprt.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factprt.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factprt.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factqpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factqpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factqpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factqpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factqury.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factqury.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factqury.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factqury.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factrete.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factrete.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factrete.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factrete.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factrhs.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factrhs.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/factrhs.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/factrhs.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/filecom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/filecom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/filecom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/filecom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/filertr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/filertr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/filertr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/filertr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/generate.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/generate.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/generate.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/generate.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrccmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrccmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrccmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrccmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrccom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrccom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrccom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrccom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcexe.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcexe.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcexe.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcexe.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/genrcpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/genrcpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlbsc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlbsc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlbsc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlbsc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlcom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlcom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlcom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlcom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globldef.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globldef.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globldef.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globldef.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/globlpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/globlpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/immthpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/immthpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/immthpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/immthpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/incrrset.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/incrrset.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/incrrset.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/incrrset.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/inherpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/inherpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/inherpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/inherpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/inscom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/inscom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/inscom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/inscom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insfile.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insfile.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insfile.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insfile.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insmngr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insmngr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insmngr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insmngr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insmoddp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insmoddp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insmoddp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insmoddp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insmult.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insmult.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insmult.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insmult.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/inspsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/inspsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/inspsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/inspsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insquery.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insquery.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insquery.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insquery.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insqypsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insqypsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/insqypsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/insqypsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/iofun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/iofun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/iofun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/iofun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/lgcldpnd.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/lgcldpnd.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/lgcldpnd.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/lgcldpnd.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/logcat.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/logcat.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/main.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/main.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/match.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/match.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/memalloc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/memalloc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/memalloc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/memalloc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/miscfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/miscfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/miscfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/miscfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulbsc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulbsc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulbsc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulbsc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/moduldef.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/moduldef.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/moduldef.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/moduldef.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulutl.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulutl.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/modulutl.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/modulutl.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgcom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgcom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgcom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgcom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgpass.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgpass.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgpass.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgpass.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/msgpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/msgpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/multifld.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/multifld.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/multifld.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/multifld.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/multifun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/multifun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/multifun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/multifun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/network.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/network.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/object.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/object.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtbld.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtbld.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtbld.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtbld.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtfnx.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtfnx.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtfnx.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtfnx.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtgen.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtgen.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtgen.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtgen.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtmch.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtmch.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/objrtmch.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/objrtmch.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/parsefun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/parsefun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/parsefun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/parsefun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/pattern.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/pattern.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/pattern.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/pattern.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/pprint.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/pprint.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/pprint.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/pprint.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prccode.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prccode.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prccode.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prccode.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prcdrfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prcdrfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prcdrfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prcdrfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prcdrpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prcdrpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prcdrpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prcdrpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prdctfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prdctfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prdctfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prdctfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prntutil.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prntutil.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/prntutil.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/prntutil.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/proflfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/proflfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/proflfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/proflfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/reorder.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/reorder.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/reorder.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/reorder.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/reteutil.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/reteutil.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/reteutil.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/reteutil.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/retract.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/retract.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/retract.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/retract.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/router.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/router.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/router.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/router.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulebin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulebin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulebin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulebin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulebld.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulebld.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulebld.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulebld.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulebsc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulebsc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulebsc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulebsc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulecmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulecmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulecmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulecmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulecom.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulecom.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulecom.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulecom.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulecstr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulecstr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulecstr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulecstr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/ruledef.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/ruledef.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/ruledef.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/ruledef.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/ruledlt.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/ruledlt.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/ruledlt.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/ruledlt.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulelhs.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulelhs.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulelhs.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulelhs.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulepsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulepsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/rulepsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/rulepsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/scanner.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/scanner.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/scanner.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/scanner.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/setup.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/setup.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/shrtlnkn.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/shrtlnkn.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/sortfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/sortfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/sortfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/sortfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/strngfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/strngfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/strngfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/strngfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/strngrtr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/strngrtr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/strngrtr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/strngrtr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/symblbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/symblbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/symblbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/symblbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/symblcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/symblcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/symblcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/symblcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/symbol.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/symbol.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/symbol.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/symbol.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/sysdep.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/sysdep.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/sysdep.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/sysdep.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/textpro.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/textpro.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/textpro.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/textpro.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltbin.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltbin.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltbin.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltbin.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltbsc.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltbsc.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltbsc.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltbsc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltcmp.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltcmp.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltcmp.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltcmp.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltdef.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltdef.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltdef.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltdef.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltfun.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltfun.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltfun.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltfun.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltlhs.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltlhs.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltlhs.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltlhs.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltpsr.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltpsr.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltpsr.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltpsr.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltrhs.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltrhs.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltrhs.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltrhs.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltutl.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltutl.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/tmpltutl.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/tmpltutl.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/userdata.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/userdata.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/userdata.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/userdata.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/userfunctions.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/userfunctions.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/usrsetup.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/usrsetup.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/utility.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/utility.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/utility.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/utility.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/watch.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/watch.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/clips/watch.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/clips/watch.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/eu_deustotech_clips_Environment.c" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/eu_deustotech_clips_Environment.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ClipsAndroid/jni/eu_deustotech_clips_Environment.h" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/jni/eu_deustotech_clips_Environment.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/README.md" afterPath="$PROJECT_DIR$/AnimalDemo/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/assets/animaldemo.clp" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/assets/animaldemo.clp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/assets/bcdemo.clp" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/assets/bcdemo.clp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/layout/activity_main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/menu/main.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/menu/main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values-v11/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values-v14/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values/animal_resources.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values/animal_resources.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values/dimens.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values/strings.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/res/values/styles.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/logic/ExpertSystem.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/logic/ExpertSystem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/logic/ExpertTaskFactory.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/logic/ExpertTaskFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/states/AbstractState.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/states/AbstractState.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/states/FinalState.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/states/FinalState.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/states/InitialState.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/states/InitialState.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/states/NextStateListener.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/states/NextStateListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/states/StateChoice.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/states/StateChoice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/AnimalDemo/src/eu/deustotech/animalclipsdemo/states/UsualState.java" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/states/UsualState.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/README.md" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/assets/owl.clp" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/assets/owl.clp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/assets/rdfs.clp" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/assets/rdfs.clp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/assets/wine.rdf" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/assets/wine.rdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/ClipsAndroid/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/layout/activity_main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/menu/main.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/menu/main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values-v11/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values-v14/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values/dimens.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values/strings.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/res/values/styles.xml" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/src/eu/deustotech/clips/demo/semanticreasoning/reasoner/ResultsFilter.java" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/java/eu/deustotech/clips/demo/semanticreasoning/reasoner/ResultsFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/src/eu/deustotech/clips/demo/semanticreasoning/reasoner/SemanticReasoner.java" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/java/eu/deustotech/clips/demo/semanticreasoning/reasoner/SemanticReasoner.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/src/eu/deustotech/clips/demo/semanticreasoning/util/SemanticLoader.java" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/java/eu/deustotech/clips/demo/semanticreasoning/util/SemanticLoader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SemanticReasoningClipsDemo/src/eu/deustotech/clips/demo/semanticreasoning/util/SemanticWriter.java" afterPath="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/java/eu/deustotech/clips/demo/semanticreasoning/util/SemanticWriter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/assets/sample.clp" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/assets/sample.clp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/layout/activity_main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/menu/main.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/menu/main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values-v11/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values-v14/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values/dimens.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values/strings.xml" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/SimpleDemo/res/values/styles.xml" afterPath="$PROJECT_DIR$/AnimalDemo/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ClipsAndroid/.gitignore" afterPath="$PROJECT_DIR$/ClipsAndroid/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/yjwong.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ClipsAndroid/libs/android-support-v4.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ClipsAndroid/ClipsAndroid.iml" afterPath="$PROJECT_DIR$/ClipsAndroid/ClipsAndroid.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java" afterPath="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleDemo/SimpleDemo.iml" afterPath="$PROJECT_DIR$/SimpleDemo/SimpleDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ClipsAndroid/build.gradle" afterPath="$PROJECT_DIR$/ClipsAndroid/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleDemo/build.gradle" afterPath="$PROJECT_DIR$/SimpleDemo/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CLIPS4Android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -620,7 +41,18 @@
     <favorites_list name="CLIPS4Android" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10339257" vertical-offset="0" max-vertical-offset="619">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -647,10 +79,6 @@
           </key>
           <value>
             <list>
-              <ExternalProjectPojo>
-                <option name="name" value=":SemanticReasoningDemo" />
-                <option name="path" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-              </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":AnimalDemo" />
                 <option name="path" value="$PROJECT_DIR$/AnimalDemo" />
@@ -1220,6 +648,16 @@
                 <option name="name" value="dexDebugTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
+                <option name="name" value="extractDebugAnnotations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
+                <option name="name" value="extractReleaseAnnotations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
@@ -1309,6 +747,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
                 <option name="name" value="mergeDebugTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1322,6 +764,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
                 <option name="name" value="mergeReleaseProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
+                <option name="name" value="mergeReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
@@ -1386,6 +832,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
                 <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:21.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
+                <option name="name" value="prepareComAndroidSupportSupportV42100Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ClipsAndroid" />
@@ -1840,389 +1291,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningClipsDemo" />
-                <option name="name" value="zipalignDebug" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/SemanticReasoningDemo">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the Android dependencies of the project" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="androidDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all variants of all applications and secondary packages." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all Debug builds" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="assembleDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the Test build for the Debug build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="assembleDebugTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all Release builds" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="assembleRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="checkDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="checkReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugTestAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugTestNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileDebugTestRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileLint" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileReleaseAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileReleaseJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileReleaseNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="compileReleaseRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs and runs the tests for Build 'debug' on connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="connectedAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all device checks on currently connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="connectedCheck" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="deviceCheck" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="dexDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="dexDebugTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="dexRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugTestBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugTestResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateDebugTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateReleaseBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateReleaseResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="generateReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the Debug build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="installDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the Test build for the Debug build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="installDebugTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on all variants." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="lint" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Debug build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="lintDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Release build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="lintRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Release build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="lintVitalRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="mergeDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="mergeDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="mergeDebugTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="mergeDebugTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="mergeReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="mergeReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="packageDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="packageDebugTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="packageRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preDebugBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preDebugTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preDexDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preDexDebugTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preDexRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="preReleaseBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:21.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="prepareComAndroidSupportSupportV42100Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="prepareDebugDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="prepareDebugTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="prepareReleaseDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processDebugJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processDebugTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processDebugTestManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processDebugTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="processReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the signing info for each variant" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="signingReport" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstall all applications." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="uninstallAll" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Debug build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="uninstallDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Test build for the Debug build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="uninstallDebugTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Release build" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="uninstallRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
-                <option name="name" value="validateDebugSigning" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SemanticReasoningDemo" />
                 <option name="name" value="zipalignDebug" />
               </ExternalTaskPojo>
             </list>
@@ -2701,7 +1769,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="9902770102292" />
+        <entry key="$PROJECT_DIR$" value="9902789978260" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3487,25 +2555,42 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/examples/AnimalDemo/build.gradle" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/AnimalDemo/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/ClipsAndroid/src/main/java/eu/deustotech/clipsandroid/VoidValue.java" />
         <option value="$PROJECT_DIR$/AnimalDemo/src/main/java/eu/deustotech/animalclipsdemo/MainActivity.java" />
         <option value="$PROJECT_DIR$/SimpleDemo/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java" />
         <option value="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/CLIPSTest.java" />
         <option value="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/java/eu/deustotech/clips/demo/semanticreasoning/MainActivity.java" />
         <option value="$PROJECT_DIR$/local.properties" />
         <option value="$PROJECT_DIR$/ClipsAndroid/build.gradle" />
         <option value="$PROJECT_DIR$/SemanticReasoningClipsDemo/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="49" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1871" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -3540,6 +2625,10 @@
               <option name="myItemId" value="CLIPS4Android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -3553,8 +2642,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -3569,9 +2658,14 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="android.project.structure.last.selected" value="SemanticReasoningClipsDemo" />
+    <property name="android.project.structure.last.selected" value="ClipsAndroid" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -3769,6 +2863,8 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="3">
@@ -3802,23 +2898,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-4" width="1871" height="1084" extended-state="6" />
+    <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968834" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32848233" sideWeight="0.49972662" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.50027335" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.50027335" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3831,8 +2925,10 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968834" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.49972662" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3856,11 +2952,18 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="160">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClipsAndroid/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="480">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3868,7 +2971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="112">
           <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3883,7 +2985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1026738" vertical-offset="0" max-vertical-offset="935">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3891,7 +2992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2720">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3899,7 +2999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -3910,7 +3009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3918,7 +3016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8304">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3926,7 +3023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3934,7 +3030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0513369" vertical-offset="0" max-vertical-offset="935">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3942,7 +3037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.95080215" vertical-offset="1289" max-vertical-offset="4432">
           <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3950,39 +3044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2053476" vertical-offset="0" max-vertical-offset="935">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
-          <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SemanticReasoningClipsDemo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0855615" vertical-offset="0" max-vertical-offset="935">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnimalDemo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32513368" vertical-offset="0" max-vertical-offset="935">
-          <caret line="19" column="0" selection-start-line="16" selection-start-column="16" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3990,17 +3051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35935828" vertical-offset="0" max-vertical-offset="935">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5401069" vertical-offset="0" max-vertical-offset="1936">
-          <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4008,9 +3058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.77005345" vertical-offset="0" max-vertical-offset="1184">
           <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4018,7 +3065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4026,9 +3072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#761#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4036,7 +3079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4044,7 +3086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1368984" vertical-offset="0" max-vertical-offset="935">
           <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4052,9 +3093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4374331" vertical-offset="2256" max-vertical-offset="4384">
           <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4062,7 +3100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1696">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4070,7 +3107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1882353" vertical-offset="0" max-vertical-offset="935">
           <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4078,7 +3114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4086,7 +3121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4102,17 +3136,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.171123" vertical-offset="0" max-vertical-offset="935">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#345#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClipsAndroid/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4449198" vertical-offset="0" max-vertical-offset="935">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4120,6 +3143,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18122977" vertical-offset="0" max-vertical-offset="618">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleDemo/src/main/java/eu/deustotech/simpleclipstest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3203883" vertical-offset="48" max-vertical-offset="2000">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49190938" vertical-offset="0" max-vertical-offset="618">
+          <caret line="19" column="0" selection-start-line="16" selection-start-column="16" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="910">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleDemo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35935828" vertical-offset="0" max-vertical-offset="935">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClipsAndroid/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4449198" vertical-offset="0" max-vertical-offset="935">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SemanticReasoningClipsDemo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0855615" vertical-offset="0" max-vertical-offset="935">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnimalDemo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10339257" vertical-offset="0" max-vertical-offset="619">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -4202,6 +3282,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

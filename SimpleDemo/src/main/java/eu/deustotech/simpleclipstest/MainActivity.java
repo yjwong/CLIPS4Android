@@ -42,13 +42,17 @@ public class MainActivity extends Activity {
         factsFilePath = getFilesDir().getAbsolutePath() + "/" + FILE_NAME;
 
         // And now, a little more complex usage...
-        final CLIPSTest test = new CLIPSTest(factsFilePath);
-        //test.getAllFacts();
-        test.assertExample();
-        //test.getAllFacts();
-        test.modifyAFact();
-        test.getAllFacts();
-        test.stop();
+        try {
+            final CLIPSTest test = new CLIPSTest(factsFilePath);
+            //test.getAllFacts();
+            test.assertExample();
+            //test.getAllFacts();
+            test.modifyAFact();
+            test.getAllFacts();
+            test.stop();
+        } catch (CLIPSError e) {
+            Log.d(CLIPSTest.tag, e.getMessage());
+        }
     }
 	
 	private void checkPrint(Environment env) {
