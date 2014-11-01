@@ -21,7 +21,7 @@ public class Environment {
 
 	static {
 		System.loadLibrary("clips");
-		System.loadLibrary("clipsdroid");
+		System.loadLibrary("clipsandroid");
 	}
 
 	private long theEnvironment;

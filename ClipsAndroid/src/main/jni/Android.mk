@@ -16,7 +16,7 @@ include $(BUILD_SHARED_LIBRARY)
 
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := clipsdroid
+LOCAL_MODULE := clipsandroid
 LOCAL_SHARED_LIBRARIES := clips
-LOCAL_SRC_FILES := eu_deustotech_clips_Environment.c
+LOCAL_SRC_FILES := eu_deustotech_clipsandroid_Environment.c
 include $(BUILD_SHARED_LIBRARY)

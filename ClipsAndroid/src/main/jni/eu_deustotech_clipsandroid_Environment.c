@@ -1,4 +1,4 @@
-#include "eu_deustotech_clips_Environment.h"
+#include "eu_deustotech_clipsandroid_Environment.h"
 #include "clips.h"
 #include "logcat.h"
 
@@ -256,28 +256,28 @@ static int UngetcJNIRouter(
    return((int) theChar);
   }
 
-/*******************************************************/
-/* Java_eu_deustotech_clips_Environment_getCLIPSVersion: Native   */
-/*   function for the CLIPSJNI getCLIPSVersion method. */
-/* Class:     eu_deustotech_clips_Environment                     */
-/* Method:    getCLIPSVersion                          */
-/* Signature: ()Ljava/lang/String;                     */
-/*******************************************************/
-JNIEXPORT jstring JNICALL Java_eu_deustotech_clips_Environment_getCLIPSVersion(
+/*************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_getCLIPSVersion: Native   */
+/*   function for the CLIPSJNI getCLIPSVersion method.                   */
+/* Class:     eu_deustotech_clipsandroid_Environment                     */
+/* Method:    getCLIPSVersion                                            */
+/* Signature: ()Ljava/lang/String;                                       */
+/*************************************************************************/
+JNIEXPORT jstring JNICALL Java_eu_deustotech_clipsandroid_Environment_getCLIPSVersion(
   JNIEnv *env, 
   jclass cls) 
   {
    return (*env)->NewStringUTF(env,VERSION_STRING);
   }
 
-/************************************************/
-/* Java_eu_deustotech_clips_Environment_createEnvironment: */
-/*                                              */
-/*    Class:     eu_deustotech_clips_Environment           */
-/*    Method:    createEnvironment              */
-/*    Signature: ()J                            */
-/************************************************/
-JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_createEnvironment(
+/******************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_createEnvironment: */
+/*                                                                */
+/*    Class:     eu_deustotech_clipsandroid_Environment           */
+/*    Method:    createEnvironment                                */
+/*    Signature: ()J                                              */
+/******************************************************************/
+JNIEXPORT jlong JNICALL Java_eu_deustotech_clipsandroid_Environment_createEnvironment(
   JNIEnv *env, 
   jobject obj)
   {
@@ -313,15 +313,15 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_createEnvironment(
    theLongClass = (*env)->FindClass(env,"java/lang/Long"); 
    theDoubleClass = (*env)->FindClass(env,"java/lang/Double"); 
    theArrayListClass = (*env)->FindClass(env,"java/util/ArrayList"); 
-   theVoidValueClass = (*env)->FindClass(env,"eu/deustotech/clips/VoidValue");
-   theIntegerValueClass = (*env)->FindClass(env,"eu/deustotech/clips/IntegerValue");
-   theFloatValueClass = (*env)->FindClass(env,"eu/deustotech/clips/FloatValue");
-   theSymbolValueClass = (*env)->FindClass(env,"eu/deustotech/clips/SymbolValue");
-   theStringValueClass = (*env)->FindClass(env,"eu/deustotech/clips/StringValue");
-   theInstanceNameValueClass = (*env)->FindClass(env,"eu/deustotech/clips/InstanceNameValue");
-   theMultifieldValueClass = (*env)->FindClass(env,"eu/deustotech/clips/MultifieldValue");
-   theFactAddressValueClass = (*env)->FindClass(env,"eu/deustotech/clips/FactAddressValue");
-   theInstanceAddressValueClass = (*env)->FindClass(env,"eu/deustotech/clips/InstanceAddressValue");
+   theVoidValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/VoidValue");
+   theIntegerValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/IntegerValue");
+   theFloatValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/FloatValue");
+   theSymbolValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/SymbolValue");
+   theStringValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/StringValue");
+   theInstanceNameValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/InstanceNameValue");
+   theMultifieldValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/MultifieldValue");
+   theFactAddressValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/FactAddressValue");
+   theInstanceAddressValueClass = (*env)->FindClass(env,"eu/deustotech/clipsandroid/InstanceAddressValue");
    
                 
    /*=========================================*/
@@ -357,8 +357,8 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_createEnvironment(
    theStringValueInitMethod = (*env)->GetMethodID(env,theStringValueClass,"<init>","(Ljava/lang/String;)V");
    theInstanceNameValueInitMethod = (*env)->GetMethodID(env,theInstanceNameValueClass,"<init>","(Ljava/lang/String;)V");
    theMultifieldValueInitMethod = (*env)->GetMethodID(env,theMultifieldValueClass,"<init>","(Ljava/util/List;)V");
-   theFactAddressValueInitMethod = (*env)->GetMethodID(env,theFactAddressValueClass,"<init>","(JLeu/deustotech/clips/Environment;)V");
-   theInstanceAddressValueInitMethod = (*env)->GetMethodID(env,theInstanceAddressValueClass,"<init>","(JLeu/deustotech/clips/Environment;)V");
+   theFactAddressValueInitMethod = (*env)->GetMethodID(env,theFactAddressValueClass,"<init>","(JLeu/deustotech/clipsandroid/Environment;)V");
+   theInstanceAddressValueInitMethod = (*env)->GetMethodID(env,theInstanceAddressValueClass,"<init>","(JLeu/deustotech/clipsandroid/Environment;)V");
 
    /*==============================================*/
    /* If the Java init methods could not be found, */
@@ -470,15 +470,15 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_createEnvironment(
    return (PointerToJLong(theEnv));
   }
 
-/*********************************************/
-/* Java_eu_deustotech_clips_Environment_clear: Native   */ 
-/*   function for the CLIPSJNI clear method. */
-/*                                           */
-/* Class:     eu_deustotech_clips_Environment           */
-/* Method:    clear                          */
-/* Signature: (J)V                           */
-/*********************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_clear(
+/***************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_clear: Native   */
+/*   function for the CLIPSJNI clear method.                   */
+/*                                                             */
+/* Class:     eu_deustotech_clipsandroid_Environment           */
+/* Method:    clear                                            */
+/* Signature: (J)V                                             */
+/***************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_clear(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv)
@@ -490,15 +490,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_clear(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/*********************************************/
-/* Java_eu_deustotech_clips_Environment_reset: Native   */ 
-/*   function for the CLIPSJNI reset method. */
-/*                                           */
-/* Class:     eu_deustotech_clips_Environment           */
-/* Method:    reset                          */
-/* Signature: (J)V                           */
-/*********************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_reset(
+/***************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_reset: Native   */
+/*   function for the CLIPSJNI reset method.                   */
+/*                                                             */
+/* Class:     eu_deustotech_clipsandroid_Environment           */
+/* Method:    reset                                            */
+/* Signature: (J)V                                             */
+/***************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_reset(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv)
@@ -510,15 +510,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_reset(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/********************************************/
-/* Java_eu_deustotech_clips_Environment_load: Native   */ 
-/*   function for the CLIPSJNI load method. */
-/*                                          */
-/* Class:     eu_deustotech_clips_Environment          */
-/* Method:    load                          */
-/* Signature: (JLjava/lang/String;)V        */
-/********************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_load(
+/**************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_load: Native   */
+/*   function for the CLIPSJNI load method.                   */
+/*                                                            */
+/* Class:     eu_deustotech_clipsandroid_Environment          */
+/* Method:    load                                            */
+/* Signature: (JLjava/lang/String;)V                          */
+/**************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_load(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv,
@@ -535,15 +535,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_load(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/*************************************************/
-/* Java_eu_deustotech_clips_Environment_loadFacts: Native   */ 
-/*   function for the CLIPSJNI loadFacts method. */
-/*                                               */
-/* Class:     eu_deustotech_clips_Environment               */
-/* Method:    loadFact                           */
-/* Signature: (JLjava/lang/String;)Z             */
-/*************************************************/
-JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_loadFacts(
+/*******************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_loadFacts: Native   */
+/*   function for the CLIPSJNI loadFacts method.                   */
+/*                                                                 */
+/* Class:     eu_deustotech_clipsandroid_Environment               */
+/* Method:    loadFact                                             */
+/* Signature: (JLjava/lang/String;)Z                               */
+/*******************************************************************/
+JNIEXPORT jboolean JNICALL Java_eu_deustotech_clipsandroid_Environment_loadFacts(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv,
@@ -563,15 +563,15 @@ JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_loadFacts(
    return rv;
   }
 
-/*********************************************/
-/* Java_eu_deustotech_clips_Environment_watch: Native   */ 
-/*   function for the CLIPSJNI watch method. */
-/*                                           */
-/* Class:     eu_deustotech_clips_Environment           */
-/* Method:    watch                          */
-/* Signature: (JLjava/lang/String;)Z         */
-/*********************************************/
-JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_watch(
+/***************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_watch: Native   */
+/*   function for the CLIPSJNI watch method.                   */
+/*                                                             */
+/* Class:     eu_deustotech_clipsandroid_Environment           */
+/* Method:    watch                                            */
+/* Signature: (JLjava/lang/String;)Z                           */
+/***************************************************************/
+JNIEXPORT jboolean JNICALL Java_eu_deustotech_clipsandroid_Environment_watch(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv,
@@ -591,15 +591,15 @@ JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_watch(
    return rv;
   }
 
-/***********************************************/
-/* Java_eu_deustotech_clips_Environment_unwatch: Native   */ 
-/*   function for the CLIPSJNI unwatch method. */
-/*                                             */
-/* Class:     eu_deustotech_clips_Environment             */
-/* Method:    unwatch                          */
-/* Signature: (JLjava/lang/String;)Z           */
-/***********************************************/
-JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_unwatch(
+/*****************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_unwatch: Native   */
+/*   function for the CLIPSJNI unwatch method.                   */
+/*                                                               */
+/* Class:     eu_deustotech_clipsandroid_Environment             */
+/* Method:    unwatch                                            */
+/* Signature: (JLjava/lang/String;)Z                             */
+/*****************************************************************/
+JNIEXPORT jboolean JNICALL Java_eu_deustotech_clipsandroid_Environment_unwatch(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv,
@@ -619,15 +619,15 @@ JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_unwatch(
    return rv;
   }
 
-/**************************************************/
-/* Java_eu_deustotech_clips_Environment_run: Native function */ 
-/*   for the CLIPSJNI run method.                 */
-/*                                                */
-/* Class:     eu_deustotech_clips_Environment                */
-/* Method:    run                                 */
-/* Signature: (JJ)J                               */
-/**************************************************/
-JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_run(
+/********************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_run: Native function */
+/*   for the CLIPSJNI run method.                                   */
+/*                                                                  */
+/* Class:     eu_deustotech_clipsandroid_Environment                */
+/* Method:    run                                                   */
+/* Signature: (JJ)J                                                 */
+/********************************************************************/
+JNIEXPORT jlong JNICALL Java_eu_deustotech_clipsandroid_Environment_run(
   JNIEnv *env, 
   jobject obj, 
   jlong clipsEnv,
@@ -643,16 +643,16 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_run(
    return rv;
   }
 
-/*************************************************************/
-/* Java_eu_deustotech_clips_Environment_eval: Native function for the   */
-/*   CLIPSJNI eval method.                                   */
-/*                                                           */
-/* Class:     eu_deustotech_clips_Environment                           */
-/* Method:    eval                                           */
-/* Signature: (JLjava/lang/String;)Leu/deustotech/clips/PrimitiveValue; */
-/*                                                           */
-/*************************************************************/
-JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_eval(
+/*******************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_eval: Native function for the   */
+/*   CLIPSJNI eval method.                                                     */
+/*                                                                             */
+/* Class:     eu_deustotech_clipsandroid_Environment                           */
+/* Method:    eval                                                             */
+/* Signature: (JLjava/lang/String;)Leu/deustotech/clipsandroid/PrimitiveValue; */
+/*                                                                             */
+/*******************************************************************************/
+JNIEXPORT jobject JNICALL Java_eu_deustotech_clipsandroid_Environment_eval(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv,
@@ -839,15 +839,15 @@ static jobject ConvertSingleFieldValue(
    return result;  
   }
 
-/****************************************************/
-/* Java_eu_deustotech_clips_Environment_build: Native function */
-/*   for the CLIPSJNI build method.                 */
-/*                                                  */
-/* Class:     eu_deustotech_clips_Environment                  */
-/* Method:    build                                 */
-/* Signature: (JLjava/lang/String;)Z                */
-/****************************************************/
-JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_build(
+/**********************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_build: Native function */
+/*   for the CLIPSJNI build method.                                   */
+/*                                                                    */
+/* Class:     eu_deustotech_clipsandroid_Environment                  */
+/* Method:    build                                                   */
+/* Signature: (JLjava/lang/String;)Z                                  */
+/**********************************************************************/
+JNIEXPORT jboolean JNICALL Java_eu_deustotech_clipsandroid_Environment_build(
   JNIEnv *env, 
   jobject obj, 
   jlong clipsEnv,
@@ -868,15 +868,15 @@ JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_build(
    return rv;
   }
 
-/***************************************************************/
-/* Java_eu_deustotech_clips_Environment_assertString: Native function for */
-/*   the CLIPSJNI assertString method.                         */
-/*                                                             */
-/* Class:     eu_deustotech_clips_Environment                             */
-/* Method:    assertString                                     */
-/* Signature: (JLjava/lang/String;)Leu/deustotech/clips/FactAddressValue; */
-/***************************************************************/
-JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_assertString(
+/*********************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_assertString: Native function for */
+/*   the CLIPSJNI assertString method.                                           */
+/*                                                                               */
+/* Class:     eu_deustotech_clipsandroid_Environment                             */
+/* Method:    assertString                                                       */
+/* Signature: (JLjava/lang/String;)Leu/deustotech/clipsandroid/FactAddressValue; */
+/*********************************************************************************/
+JNIEXPORT jobject JNICALL Java_eu_deustotech_clipsandroid_Environment_assertString(
   JNIEnv *env,
   jobject obj, 
   jlong clipsEnv, 
@@ -903,15 +903,15 @@ JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_assertString(
    return rv;
   }
 
-/*************************************************/
-/* Java_eu_deustotech_clips_Environment_factIndex: Native   */
-/*   function for the CLIPSJNI factIndex method. */
-/*                                               */
-/* Class:     eu_deustotech_clips_Environment               */
-/* Method:    factIndex                          */
-/* Signature: (Leu/deustotech/clips/Environment;JJ)J        */
-/*************************************************/
-JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_factIndex(
+/*******************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_factIndex: Native   */
+/*   function for the CLIPSJNI factIndex method.                   */
+/*                                                                 */
+/* Class:     eu_deustotech_clipsandroid_Environment               */
+/* Method:    factIndex                                            */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJ)J        */
+/*******************************************************************/
+JNIEXPORT jlong JNICALL Java_eu_deustotech_clipsandroid_Environment_factIndex(
   JNIEnv *env, 
   jclass javaClass, 
   jobject javaEnv,
@@ -929,16 +929,16 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_factIndex(
    return rv;
   }
 
-/**************************************************************/
-/* Java_eu_deustotech_clips_Environment_getFactSlot: Native function     */
-/*   for the CLIPSJNI getFactSlot method.                     */
-/*                                                            */
-/* Class:     eu_deustotech_clips_Environment                            */
-/* Method:    getFactSlot                                     */
-/* Signature: (Leu/deustotech/clips/Environment;JJLjava/lang/String;)    */
-/*            Leu/deustotech/clips/PrimitiveValue;                       */
-/**************************************************************/
-JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_getFactSlot(
+/********************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_getFactSlot: Native function     */
+/*   for the CLIPSJNI getFactSlot method.                                       */
+/*                                                                              */
+/* Class:     eu_deustotech_clipsandroid_Environment                            */
+/* Method:    getFactSlot                                                       */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJLjava/lang/String;)    */
+/*            Leu/deustotech/clipsandroid/PrimitiveValue;                       */
+/********************************************************************************/
+JNIEXPORT jobject JNICALL Java_eu_deustotech_clipsandroid_Environment_getFactSlot(
   JNIEnv *env,
   jclass javaClass, 
   jobject javaEnv,
@@ -964,16 +964,16 @@ JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_getFactSlot(
    return rv;
   }
 
-/**********************************************************/
-/* Java_eu_deustotech_clips_Environment_incrementFactCount: Native   */
-/*   function for the CLIPSJNI incrementFactCount method. */
-/*                                                        */
-/*                                                        */
-/* Class:     eu_deustotech_clips_Environment                        */
-/* Method:    incrementFactCount                          */
-/* Signature: (Leu/deustotech/clips/Environment;JJ)V                 */
-/**********************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_incrementFactCount(
+/****************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_incrementFactCount: Native   */
+/*   function for the CLIPSJNI incrementFactCount method.                   */
+/*                                                                          */
+/*                                                                          */
+/* Class:     eu_deustotech_clipsandroid_Environment                        */
+/* Method:    incrementFactCount                                            */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJ)V                 */
+/****************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_incrementFactCount(
   JNIEnv *env, 
   jclass javaClass, 
   jobject javaEnv,
@@ -987,16 +987,16 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_incrementFactCount(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
   
-/**********************************************************/
-/* Java_eu_deustotech_clips_Environment_decrementFactCount: Native   */
-/*   function for the CLIPSJNI decrementFactCount method. */
-/*                                                        */
-/*                                                        */
-/* Class:     eu_deustotech_clips_Environment                        */
-/* Method:    decrementFactCount                          */
-/* Signature: (Leu/deustotech/clips/Environment;JJ)V                 */
-/**********************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_decrementFactCount(
+/****************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_decrementFactCount: Native   */
+/*   function for the CLIPSJNI decrementFactCount method.                   */
+/*                                                                          */
+/*                                                                          */
+/* Class:     eu_deustotech_clipsandroid_Environment                        */
+/* Method:    decrementFactCount                                            */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJ)V                 */
+/****************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_decrementFactCount(
   JNIEnv *env, 
   jclass javaClass, 
   jobject javaEnv,
@@ -1010,15 +1010,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_decrementFactCount(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
   
-/*******************************************************************/
-/* Java_eu_deustotech_clips_Environment_makeInstance: Native function for the */
-/*   CLIPSJNI makeInstance method.                                 */
-/*                                                                 */
-/* Class:     eu_deustotech_clips_Environment                                 */
-/* Method:    makeInstance                                         */
-/* Signature: (JLjava/lang/String;)Leu/deustotech/clips/InstanceAddressValue; */
-/*******************************************************************/
-JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_makeInstance(
+/*************************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_makeInstance: Native function for the */
+/*   CLIPSJNI makeInstance method.                                                   */
+/*                                                                                   */
+/* Class:     eu_deustotech_clipsandroid_Environment                                 */
+/* Method:    makeInstance                                                           */
+/* Signature: (JLjava/lang/String;)Leu/deustotech/clipsandroid/InstanceAddressValue; */
+/*************************************************************************************/
+JNIEXPORT jobject JNICALL Java_eu_deustotech_clipsandroid_Environment_makeInstance(
   JNIEnv *env,
   jobject obj, 
   jlong clipsEnv, 
@@ -1048,15 +1048,15 @@ JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_makeInstance(
    return rv;
   }
 
-/***********************************************************/
-/* Java_eu_deustotech_clips_Environment_getInstanceName: Native       */
-/*   function for the CLIPSJNI getInstanceName method.     */
-/*                                                         */
-/* Class:     eu_deustotech_clips_Environment                         */
-/* Method:    getInstanceName                              */
-/* Signature: (Leu/deustotech/clips/Environment;JJ)Ljava/lang/String; */
-/***********************************************************/
-JNIEXPORT jstring JNICALL Java_eu_deustotech_clips_Environment_getInstanceName(
+/*****************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_getInstanceName: Native       */
+/*   function for the CLIPSJNI getInstanceName method.                       */
+/*                                                                           */
+/* Class:     eu_deustotech_clipsandroid_Environment                         */
+/* Method:    getInstanceName                                                */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJ)Ljava/lang/String; */
+/*****************************************************************************/
+JNIEXPORT jstring JNICALL Java_eu_deustotech_clipsandroid_Environment_getInstanceName(
   JNIEnv *env, 
   jclass javaClass, 
   jobject javaEnv,
@@ -1073,16 +1073,16 @@ JNIEXPORT jstring JNICALL Java_eu_deustotech_clips_Environment_getInstanceName(
    return rv;
   }
 
-/**************************************************************/
-/* Java_eu_deustotech_clips_Environment_incrementInstanceCount: Native   */
-/*   function for the CLIPSJNI incrementInstanceCount method. */
-/*                                                            */
-/*                                                            */
-/* Class:     eu_deustotech_clips_Environment                            */
-/* Method:    incrementInstanceCount                          */
-/* Signature: (Leu/deustotech/clips/Environment;JJ)V                     */
-/**************************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_incrementInstanceCount(
+/********************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_incrementInstanceCount: Native   */
+/*   function for the CLIPSJNI incrementInstanceCount method.                   */
+/*                                                                              */
+/*                                                                              */
+/* Class:     eu_deustotech_clipsandroid_Environment                            */
+/* Method:    incrementInstanceCount                                            */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJ)V                     */
+/********************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_incrementInstanceCount(
   JNIEnv *env, 
   jclass javaClass, 
   jobject javaEnv,
@@ -1096,16 +1096,16 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_incrementInstanceCou
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
   
-/**************************************************************/
-/* Java_eu_deustotech_clips_Environment_decrementInstanceCount: Native   */
-/*   function for the CLIPSJNI decrementInstanceCount method. */
-/*                                                            */
-/*                                                            */
-/* Class:     eu_deustotech_clips_Environment                            */
-/* Method:    decrementInstanceCount                          */
-/* Signature: (Leu/deustotech/clips/Environment;JJ)V                     */
-/**************************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_decrementInstanceCount(
+/********************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_decrementInstanceCount: Native   */
+/*   function for the CLIPSJNI decrementInstanceCount method.                   */
+/*                                                                              */
+/*                                                                              */
+/* Class:     eu_deustotech_clipsandroid_Environment                            */
+/* Method:    decrementInstanceCount                                            */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJ)V                     */
+/********************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_decrementInstanceCount(
   JNIEnv *env, 
   jclass javaClass, 
   jobject javaEnv,
@@ -1119,16 +1119,16 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_decrementInstanceCou
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/**************************************************************/
-/* Java_eu_deustotech_clips_Environment_directGetSlot: Native function   */
-/*   for the CLIPSJNI directGetSlot method.                   */
-/*                                                            */
-/* Class:     eu_deustotech_clips_Environment                            */
-/* Method:    directGetSlot                                   */
-/* Signature: (Leu/deustotech/clips/Environment;JJLjava/lang/String;)    */
-/*            Leu/deustotech/clips/PrimitiveValue;                       */
-/**************************************************************/
-JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_directGetSlot(
+/********************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_directGetSlot: Native function   */
+/*   for the CLIPSJNI directGetSlot method.                                     */
+/*                                                                              */
+/* Class:     eu_deustotech_clipsandroid_Environment                            */
+/* Method:    directGetSlot                                                     */
+/* Signature: (Leu/deustotech/clipsandroid/Environment;JJLjava/lang/String;)    */
+/*            Leu/deustotech/clipsandroid/PrimitiveValue;                       */
+/********************************************************************************/
+JNIEXPORT jobject JNICALL Java_eu_deustotech_clipsandroid_Environment_directGetSlot(
   JNIEnv *env,
   jclass javaClass, 
   jobject javaEnv,
@@ -1154,15 +1154,15 @@ JNIEXPORT jobject JNICALL Java_eu_deustotech_clips_Environment_directGetSlot(
    return rv;
   }
 
-/**********************************************************/
-/* Java_eu_deustotech_clips_Environment_destroyEnvironment: Native   */
-/*   function for the CLIPSJNI destroyEnvironment method. */
-/*                                                        */
-/* Class:     eu_deustotech_clips_Environment                        */
-/* Method:    destroyEnvironment                          */
-/* Signature: (J)V                                        */
-/**********************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_destroyEnvironment(
+/****************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_destroyEnvironment: Native   */
+/*   function for the CLIPSJNI destroyEnvironment method.                   */
+/*                                                                          */
+/* Class:     eu_deustotech_clipsandroid_Environment                        */
+/* Method:    destroyEnvironment                                            */
+/* Signature: (J)V                                                          */
+/****************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_destroyEnvironment(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv)
@@ -1172,15 +1172,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_destroyEnvironment(
    DestroyEnvironment(JLongToPointer(clipsEnv));
   }
 
-/***************************************************/
-/* Java_eu_deustotech_clips_Environment_commandLoop: Native   */
-/*   function for the CLIPSJNI commandLoop method. */
-/*                                                 */
-/* Class:     eu_deustotech_clips_Environment                 */
-/* Method:    commandLoop                          */
-/* Signature: (J)V                                 */
-/***************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_commandLoop(
+/*********************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_commandLoop: Native   */
+/*   function for the CLIPSJNI commandLoop method.                   */
+/*                                                                   */
+/* Class:     eu_deustotech_clipsandroid_Environment                 */
+/* Method:    commandLoop                                            */
+/* Signature: (J)V                                                   */
+/*********************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_commandLoop(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv)
@@ -1190,15 +1190,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_commandLoop(
    CommandLoop(JLongToPointer(clipsEnv));
   }
 
-/****************************************************************/
-/* Java_eu_deustotech_clips_Environment_commandLoopOnceThenBatch: Native   */
-/*   function for the CLIPSJNI commandLoopOnceThenBatch method. */
-/*                                                              */
-/* Class:     eu_deustotech_clips_Environment                              */
-/* Method:    commandLoopOnceThenBatch                          */
-/* Signature: (J)V                                              */
-/****************************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_commandLoopOnceThenBatch(
+/**********************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_commandLoopOnceThenBatch: Native   */
+/*   function for the CLIPSJNI commandLoopOnceThenBatch method.                   */
+/*                                                                                */
+/* Class:     eu_deustotech_clipsandroid_Environment                              */
+/* Method:    commandLoopOnceThenBatch                                            */
+/* Signature: (J)V                                                                */
+/**********************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_commandLoopOnceThenBatch(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv)
@@ -1208,15 +1208,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_commandLoopOnceThenB
    CommandLoopOnceThenBatch(JLongToPointer(clipsEnv));
   }
 
-/***************************************************/
-/* Java_eu_deustotech_clips_Environment_printBanner: Native   */
-/*   function for the CLIPSJNI printBanner method. */
-/*                                                 */
-/* Class:     eu_deustotech_clips_Environment                 */
-/* Method:    printBanner                          */
-/* Signature: (J)V                                 */
-/***************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_printBanner(
+/*********************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_printBanner: Native   */
+/*   function for the CLIPSJNI printBanner method.                   */
+/*                                                                   */
+/* Class:     eu_deustotech_clipsandroid_Environment                 */
+/* Method:    printBanner                                            */
+/* Signature: (J)V                                                   */
+/*********************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_printBanner(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv)
@@ -1228,15 +1228,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_printBanner(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/***************************************************/
-/* Java_eu_deustotech_clips_Environment_printPrompt: Native   */
-/*   function for the CLIPSJNI printPrompt method. */
-/*                                                 */
-/* Class:     eu_deustotech_clips_Environment                 */
-/* Method:    printPrompt                          */
-/* Signature: (J)V                                 */
-/***************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_printPrompt(
+/*********************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_printPrompt: Native   */
+/*   function for the CLIPSJNI printPrompt method.                   */
+/*                                                                   */
+/* Class:     eu_deustotech_clipsandroid_Environment                 */
+/* Method:    printPrompt                                            */
+/* Signature: (J)V                                                   */
+/*********************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_printPrompt(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv)
@@ -1248,15 +1248,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_printPrompt(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/******************************************************/
-/* Java_eu_deustotech_clips_Environment_getInputBuffer: Native   */
-/*   function for the CLIPSJNI getInputBuffer method. */
-/*                                                    */
-/* Class:     eu_deustotech_clips_Environment                    */
-/* Method:    getInputBuffer                          */
-/* Signature: (J)Ljava/lang/String;                   */
-/******************************************************/
-JNIEXPORT jstring JNICALL Java_eu_deustotech_clips_Environment_getInputBuffer(
+/************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_getInputBuffer: Native   */
+/*   function for the CLIPSJNI getInputBuffer method.                   */
+/*                                                                      */
+/* Class:     eu_deustotech_clipsandroid_Environment                    */
+/* Method:    getInputBuffer                                            */
+/* Signature: (J)Ljava/lang/String;                                     */
+/************************************************************************/
+JNIEXPORT jstring JNICALL Java_eu_deustotech_clipsandroid_Environment_getInputBuffer(
   JNIEnv *env, 
   jobject obj, 
   jlong clipsEnv)
@@ -1283,15 +1283,15 @@ JNIEXPORT jstring JNICALL Java_eu_deustotech_clips_Environment_getInputBuffer(
    return rv;
   }
 
-/******************************************************/
-/* Java_eu_deustotech_clips_Environment_setInputBuffer: Native   */
-/*   function for the CLIPSJNI setInputBuffer method. */
-/*                                                    */
-/* Class:     eu_deustotech_clips_Environment                    */
-/* Method:    setInputBuffer                          */
-/* Signature: (JLjava/lang/String;)V                  */
-/******************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_setInputBuffer(
+/************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_setInputBuffer: Native   */
+/*   function for the CLIPSJNI setInputBuffer method.                   */
+/*                                                                      */
+/* Class:     eu_deustotech_clipsandroid_Environment                    */
+/* Method:    setInputBuffer                                            */
+/* Signature: (JLjava/lang/String;)V                                    */
+/************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_setInputBuffer(
   JNIEnv *env, 
   jobject obj,
   jlong clipsEnv,
@@ -1308,15 +1308,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_setInputBuffer(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/***********************************************************/
-/* Java_eu_deustotech_clips_Environment_getInputBufferCount: Native   */
-/*   function for the CLIPSJNI getInputBufferCount method. */
-/*                                                         */
-/* Class:     eu_deustotech_clips_Environment                         */
-/* Method:    getInputBufferCount                          */
-/* Signature: (J)J                                         */
-/***********************************************************/
-JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_getInputBufferCount(
+/*****************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_getInputBufferCount: Native   */
+/*   function for the CLIPSJNI getInputBufferCount method.                   */
+/*                                                                           */
+/* Class:     eu_deustotech_clipsandroid_Environment                         */
+/* Method:    getInputBufferCount                                            */
+/* Signature: (J)J                                                           */
+/*****************************************************************************/
+JNIEXPORT jlong JNICALL Java_eu_deustotech_clipsandroid_Environment_getInputBufferCount(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv)
@@ -1331,15 +1331,15 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_getInputBufferCount
    return rv;
   }
 
-/***********************************************************/
-/* Java_eu_deustotech_clips_Environment_setInputBufferCount: Native   */
-/*   function for the CLIPSJNI setInputBufferCount method. */
-/*                                                         */
-/* Class:     eu_deustotech_clips_Environment                         */
-/* Method:    setInputBufferCount                          */
-/* Signature: (JJ)J                                        */
-/***********************************************************/
-JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_setInputBufferCount(
+/*****************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_setInputBufferCount: Native   */
+/*   function for the CLIPSJNI setInputBufferCount method.                   */
+/*                                                                           */
+/* Class:     eu_deustotech_clipsandroid_Environment                         */
+/* Method:    setInputBufferCount                                            */
+/* Signature: (JJ)J                                                          */
+/*****************************************************************************/
+JNIEXPORT jlong JNICALL Java_eu_deustotech_clipsandroid_Environment_setInputBufferCount(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv,
@@ -1358,15 +1358,15 @@ JNIEXPORT jlong JNICALL Java_eu_deustotech_clips_Environment_setInputBufferCount
    return rv;
   }
 
-/*********************************************************/
-/* Java_eu_deustotech_clips_Environment_appendInputBuffer: Native   */
-/*   function for the CLIPSJNI appendInputBuffer method. */
-/*                                                       */
-/* Class:     eu_deustotech_clips_Environment                       */
-/* Method:    appendInputBuffer                          */
-/* Signature: (JLjava/lang/String;)V                     */
-/*********************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_appendInputBuffer(
+/***************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_appendInputBuffer: Native   */
+/*   function for the CLIPSJNI appendInputBuffer method.                   */
+/*                                                                         */
+/* Class:     eu_deustotech_clipsandroid_Environment                       */
+/* Method:    appendInputBuffer                                            */
+/* Signature: (JLjava/lang/String;)V                                       */
+/***************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_appendInputBuffer(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv,
@@ -1383,15 +1383,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_appendInputBuffer(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/*********************************************************/
-/* Java_eu_deustotech_clips_Environment_expandInputBuffer: Native   */
-/*   function for the CLIPSJNI expandInputBuffer method. */
-/*                                                       */
-/* Class:     eu_deustotech_clips_Environment                       */
-/* Method:    expandInputBuffer                          */
-/* Signature: (JC)V                                      */
-/*********************************************************/
-JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_expandInputBuffer(
+/***************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_expandInputBuffer: Native   */
+/*   function for the CLIPSJNI expandInputBuffer method.                   */
+/*                                                                         */
+/* Class:     eu_deustotech_clipsandroid_Environment                       */
+/* Method:    expandInputBuffer                                            */
+/* Signature: (JC)V                                                        */
+/***************************************************************************/
+JNIEXPORT void JNICALL Java_eu_deustotech_clipsandroid_Environment_expandInputBuffer(
   JNIEnv *env,
   jobject obj,
   jlong clipsEnv,
@@ -1404,15 +1404,15 @@ JNIEXPORT void JNICALL Java_eu_deustotech_clips_Environment_expandInputBuffer(
    SetEnvironmentContext(JLongToPointer(clipsEnv),oldContext);
   }
 
-/******************************************************************/
-/* Java_eu_deustotech_clips_Environment_inputBufferContainsCommand: Native   */
-/*   function for the CLIPSJNI inputBufferContainsCommand method. */
-/*                                                                */
-/* Class:     eu_deustotech_clips_Environment                                */
-/* Method:    inputBufferContainsCommand                          */
-/* Signature: (J)Z                                                */
-/******************************************************************/
-JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_inputBufferContainsCommand(
+/************************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_inputBufferContainsCommand: Native   */
+/*   function for the CLIPSJNI inputBufferContainsCommand method.                   */
+/*                                                                                  */
+/* Class:     eu_deustotech_clipsandroid_Environment                                */
+/* Method:    inputBufferContainsCommand                                            */
+/* Signature: (J)Z                                                                  */
+/************************************************************************************/
+JNIEXPORT jboolean JNICALL Java_eu_deustotech_clipsandroid_Environment_inputBufferContainsCommand(
   JNIEnv *env,
   jobject obj, 
   jlong clipsEnv)
@@ -1427,15 +1427,15 @@ JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_inputBufferConta
    return rv;
   }
 
-/*******************************************************/
-/* Java_eu_deustotech_clips_Environment_addRouter: Native         */
-/*   function for the CLIPSJNI addRouter method.       */
-/*                                                     */
-/* Class:     eu_deustotech_clips_Environment                     */
-/* Method:    addRouter                                */
-/* Signature: (JLjava/lang/String;ILeu/deustotech/clips/Router;)Z */
-/*******************************************************/
-JNIEXPORT jboolean JNICALL Java_eu_deustotech_clips_Environment_addRouter(
+/*************************************************************************/
+/* Java_eu_deustotech_clipsandroid_Environment_addRouter: Native         */
+/*   function for the CLIPSJNI addRouter method.                         */
+/*                                                                       */
+/* Class:     eu_deustotech_clipsandroid_Environment                     */
+/* Method:    addRouter                                                  */
+/* Signature: (JLjava/lang/String;ILeu/deustotech/clipsandroid/Router;)Z */
+/*************************************************************************/
+JNIEXPORT jboolean JNICALL Java_eu_deustotech_clipsandroid_Environment_addRouter(
   JNIEnv *env, 
   jobject obj, 
   jlong clipsEnv, 
